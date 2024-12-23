@@ -1,0 +1,12 @@
+1. Calculate the average energy, valence, and danceability of the listener’s top 100 songs using:
+SELECT AVG(energy), AVG(valence), AVG(danceability) FROM songs;
+
+2. Limitations:
+2-1.Does not account for play count or frequency.
+2-2.Ignores mood changes throughout the year.
+2-3.Energy, valence, and danceability may not fully capture song significance.
+
+3.Better Methods:
+3-1.Use weighted averages based on play count.
+3-2.Analyze changes over time (e.g., by month).
+3-3.Include more song features like tempo or genre.

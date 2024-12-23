@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: In sorted situation, this algorithms is faster then selection sort.
+
+sort2 uses: Merge sort
+
+How do you know?: This algorithms is significantly faster than others.
+
+sort3 uses: Selection sort
+
+How do you know?: In sorted situation, this algorithms will take more times than bubble sort.
