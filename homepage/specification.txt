@@ -1,0 +1,26 @@
+HTML Tags Used:
+1. <nav> - For the navigation bar.
+2. <ul> - To create navigation links.
+3. <li> - For each navigation item.
+4. <button> - To trigger JavaScript functionality.
+5. <div> - For layout structure.
+6. <h1> - For the main header text.
+7. <p> - For paragraphs.
+8. <a> - For hyperlinks.
+9. <form> - For the contact page.
+10. <input> - For form inputs.
+
+CSS Properties Used:
+1. font-family - To style text font.
+2. background-color - To set the background color of the body.
+3. color - To style text color.
+4. box-shadow - To add a shadow effect to the navbar.
+5. padding - To add spacing in elements.
+
+Bootstrap Features:
+- Navbar for responsive navigation.
+- Buttons for styling interactivity.
+- Form components for the contact page.
+
+JavaScript:
+- Added interactivity with an alert when a button is clicked on the index page.
